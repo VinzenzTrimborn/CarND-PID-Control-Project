@@ -1,8 +1,6 @@
 # CarND-Controls-PID
 Self-Driving Car Engineer Nanodegree Program
 
----
-
 ## Introduction
 
 In this project I implemented a PID controller  to stier a car around a given track in the simulator. The simulator provides the cross check error and the velocity which is needed to compute the steering angle. 
